@@ -1,26 +1,12 @@
-<div align="center">
-<img height="400" src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif"  />
-</div>
-
-### 
-
-<div align="left">
-<a href="https://www.linkedin.com/in/marcosviniv/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-</a>
-<a href="https://www.youtube.com/channel/UCmdtYvjBXh07hLJk25iV0TA" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
-</a>
-<a href="https://www.instagram.com/mviniciusvieira_/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-</a>
-</div>
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
 <p align="left">👋 Hi, I’m @marcosviniv and I'm a Software Engineering student, from Brasil</p>
+
+<div align="center">
+<img height="400" src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif"  />
+</div>
 
 ###
 
