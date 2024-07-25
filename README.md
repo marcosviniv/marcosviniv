@@ -4,8 +4,8 @@
 
 <p align="left">👋 Hi, I’m @marcosviniv and I'm a Software Engineering student, from Brasil</p>
 
-<div align="center">
-<img height="400" src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif"  />
+<div align="right">
+<img height="150" src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif"  />
 </div>
 
 ###
