@@ -23,8 +23,9 @@
 ###
 
 <div align="left">
-  <img src="https://iconduck.com/icons/13103/kotlin-original?shared" height="40" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
 </div>
 
 ###
