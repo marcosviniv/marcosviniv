@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=1007469379131944261" height="245" width="236" frameborder="0" scrolling="no" ></iframe>
+
 
 <h2 align="left">I code with</h2>
 
