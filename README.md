@@ -9,7 +9,11 @@
 <h2 align="left">About me</h2>
 
 ###
-<img align="right" height="150" src="https://pin.it/31RTYujMz](https://64.media.tumblr.com/978208d1833eeb73d91a56f402aac8ad/378c8f296a8f9b81-81/s1280x1920/0676e4baddba001440f923c9ea164ce503ea288b.gifv"  />
+
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
 
 <p align="left">👀 I’m interested in developing new projects and working at a major company as a mobile developer<br>🌱 I’m currently learning Android and the Kotlin Language <br>🎯 Goals: To master Mobile Development and graduate as a Software Engineer<br>📫 How to reach me: marcosv.code@gmail.com</p>
 <br>
