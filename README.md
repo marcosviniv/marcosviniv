@@ -1,3 +1,43 @@
+<div align="center">
+<img height="400" src="https://i.pinimg.com/originals/cb/99/bc/cb99bc9de2a41527de5a7249c8564176.jpg"  />
+</div>
+
+### 
+
+<div align="center">
+<a href="https://www.linkedin.com/in/marcosviniv/" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+</a>
+<a href="https://www.instagram.com/mviniciusvieira_/" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+</a>
+<a href="https://www.youtube.com/channel/UCmdtYvjBXh07hLJk25iV0TA" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
+</a>
+</div>
+
+### 
+
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=marcosviniv.marcosviniv&"  />
+</div>
+
+<h3 align="left">🛠 Language and tools</h3>
+
+### 
+
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+</div>
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
