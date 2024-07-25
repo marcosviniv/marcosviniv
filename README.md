@@ -12,7 +12,8 @@
 
 <p align="left">👀 I’m interested in developing new projects<br>🌱 I’m currently learning Android and the Kotlin Language <br>🎯 Goals: To master Mobile Development and graduate as a Software Engineer<br>📫 How to reach me: marcosv.code@gmail.com</p>
 <br>
-<br>
+###
+<h2 align="left">Socials</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/marcosviniv/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -26,7 +27,6 @@
 </div>
 
 ###
-
 
 <h2 align="left">I code with</h2>
 
