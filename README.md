@@ -4,10 +4,6 @@
 
 <p align="left">👋 Hi, I’m @marcosviniv and I'm a Software Engineering student, from Brasil</p>
 
-<div align="right">
-<img height="150" src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif"  />
-</div>
-
 ###
 
 <h2 align="left">About me</h2>
@@ -16,7 +12,9 @@
 
 <p align="left">👀 I’m interested in developing new projects<br>🌱 I’m currently learning Android and the Kotlin Language <br>🎯 Goals: To master Mobile Development and graduate as a Software Engineer<br>📫 How to reach me: marcosv.code@gmail.com</p>
 <br>
-
+<div align="right">
+<img height="150" src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif"  />
+</div>
 <h2 align="left">Social Media</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/marcosviniv/" target="_blank">
