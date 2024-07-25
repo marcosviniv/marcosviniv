@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Marcos and I'm a Android Developer Student, from Brasil</p>
+<p align="left">👋 Hi, I’m @marcosviniv and I'm a Software Engineering student, from Brasil</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since January 2024<br>📚 I'm currently learning Android and Kotlin Language<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">👀 I’m interested in developing new projects and working at a major company as a mobile developer ...<br>🌱 I’m currently learning Android and the Kotlin Language <br>🎯 Goals: To master Mobile Development and graduate as a Software Engineer<br>📫 How to reach me: marcosv.code@gmail.com</p>
 
 ###
 
