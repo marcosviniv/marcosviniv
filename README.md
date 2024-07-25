@@ -23,7 +23,7 @@
 ###
 
 <div align="left">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://iconduck.com/icons/13103/kotlin-original?shared)" height="40" alt="kotlin logo"  />
+  <img src="https://iconduck.com/icons/13103/kotlin-original?shared" height="40" alt="kotlin logo"  />
   <img width="12" />
 </div>
 
