@@ -5,11 +5,11 @@
 <p align="left">👋 Hi, I’m @marcosviniv and I'm a Software Engineering student, from Brasil</p>
 
 ###
+<img align="right" height="300" src="https://i.pinimg.com/originals/f4/de/0b/f4de0ba280af342f24c9f6939b229d03.gif"  />
 
 <h2 align="left">About me</h2>
 
 ###
-<img align="right" height="300" src="https://i.pinimg.com/originals/f4/de/0b/f4de0ba280af342f24c9f6939b229d03.gif"  />
 
 <p align="left">👀 I’m interested in developing new projects<br>🌱 I’m currently learning Android and the Kotlin Language <br>🎯 Goals: To master Mobile Development and graduate as a Software Engineer<br>📫 How to reach me: marcosv.code@gmail.com</p>
 <br>
