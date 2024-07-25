@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👀 I’m interested in developing new projects and working at a major company as a mobile developer<br>🌱 I’m currently learning Android and the Kotlin Language <br>🎯 Goals: To master Mobile Development and graduate as a Software Engineer<br>📫 How to reach me: marcosv.code@gmail.com</p>
+<p align="left">👀 I’m interested in developing new projects<br>🌱 I’m currently learning Android and the Kotlin Language <br>🎯 Goals: To master Mobile Development and graduate as a Software Engineer<br>📫 How to reach me: marcosv.code@gmail.com</p>
 <br>
 <br>
 <div align="left">
