@@ -7,20 +7,10 @@
 <p align="left">👀 I’m interested in developing new projects<br>🌱 I’m currently learning Android and the Kotlin Language<br>🎯 Goals: To master Mobile Development and graduate as a Software Engineer<br>📫 How to reach me: marcosv.code@gmail.com</p>
 
 <div align="center">
-  <img height="240" src="https://i.pinimg.com/originals/f4/de/0b/f4de0ba280af342f24c9f6939b229d03.gif" />
+  <img height="240" src="https://i.pinimg.com/originals/f4/de/0b/f4de0ba280af342f24c9f6939b229d03.gif"  />
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/marcosviniv/" target="blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCmdtYvjBXh07hLJk25iV0TA" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo" />
-  </a>
-  <a href="https://www.instagram.com/mviniciusvieira_/" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
-  </a>
-</div>
+###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marcosviniv.marcosviniv&" />
