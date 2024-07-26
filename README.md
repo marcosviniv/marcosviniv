@@ -1,3 +1,18 @@
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">👋 Hi, I’m @marcosviniv and I'm a Software Engineering student, from Brasil</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">👀 I’m interested in developing new projects<br>🌱 I’m currently learning Android and the Kotlin Language <br>🎯 Goals: To master Mobile Development and graduate as a Software Engineer<br>📫 How to reach me: marcosv.code@gmail.com</p>
+
+###
 <div align="center">
 <a href="https://www.linkedin.com/in/marcosviniv/" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
@@ -15,22 +30,6 @@
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=marcosviniv.marcosviniv&"  />
 </div>
-
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">👋 Hi, I’m @marcosviniv and I'm a Software Engineering student, from Brasil</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">👀 I’m interested in developing new projects<br>🌱 I’m currently learning Android and the Kotlin Language <br>🎯 Goals: To master Mobile Development and graduate as a Software Engineer<br>📫 How to reach me: marcosv.code@gmail.com</p>
-
-###
 
 <h2 align="left">I code with</h2>
 
