@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"  />
+</div>
+
+###
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">👋 Hi, I’m @marcosviniv and I'm a Software Engineering student, from Brazil <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /></p>
