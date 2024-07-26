@@ -1,3 +1,17 @@
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">👋 Hi, I’m @marcosviniv and I'm a Software Engineering student, from Brazil.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">👀 I’m interested in developing new projects<br>🌱 I’m currently learning Android and the Kotlin Language <br>🎯 Goals: To master Mobile Development and graduate as a Software Engineer<br>📫 How to reach me: marcosv.code@gmail.com</p>
+
 <div align="center">
   <img height="240" src="https://i.pinimg.com/originals/f4/de/0b/f4de0ba280af342f24c9f6939b229d03.gif"  />
 </div>
@@ -17,19 +31,6 @@
 </div>
 
 ###
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">👋 Hi, I’m @marcosviniv and I'm a Software Engineering student, from Brazil.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">👀 I’m interested in developing new projects<br>🌱 I’m currently learning Android and the Kotlin Language <br>🎯 Goals: To master Mobile Development and graduate as a Software Engineer<br>📫 How to reach me: marcosv.code@gmail.com</p>
 
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=marcosviniv.marcosviniv&"  />
@@ -47,6 +48,7 @@
 </div>
 
 ###
+
 <h2 align="left">Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcosviniv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
