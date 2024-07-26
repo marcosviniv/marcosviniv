@@ -5,10 +5,10 @@
 <h2 align="left">About me</h2>
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png"  />
 <p align="left">👀 I’m interested in developing new projects<br>🌱 I’m currently learning Android and the Kotlin Language<br>🎯 Goals: To master Mobile Development and graduate as a Software Engineer<br>
-  ✨ Creating bugs since 2024<br>📫 How to reach me: marcosv.code@gmail.com</p>
+  ✨ Creating bugs since 2024<br>📫 How to reach me: marcosv.code@gmail.com</p><br><br>
 
 ###
-<br><br>
+
 <h2 align="left">I code with</h2>
 
 <div align="left">
@@ -41,14 +41,9 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marcosviniv/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" height="45" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/mviniciusvieira_/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="52" height="40" alt="instagram logo"  />
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" height="45" alt="instagram logo"  />
   </a>
-</div>
-
-###
-<div align="center">
-  <img height="none" src="https://clan.akamai.steamstatic.com/images//35662206/71a41d0140d3cbbbe56de29f5fe0b32e16a7c5cc.gif"  />
 </div>
