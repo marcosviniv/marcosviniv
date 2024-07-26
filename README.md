@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="none" src="https://clan.akamai.steamstatic.com/images//35662206/71a41d0140d3cbbbe56de29f5fe0b32e16a7c5cc.gif"  />
-</div>
-
-###
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">👋 Hi, I’m @marcosviniv and I'm a Software Engineering student, from Brazil <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /></p>
@@ -55,3 +49,6 @@
 </div>
 
 ###
+<div align="center">
+  <img height="none" src="https://clan.akamai.steamstatic.com/images//35662206/71a41d0140d3cbbbe56de29f5fe0b32e16a7c5cc.gif"  />
+</div>
