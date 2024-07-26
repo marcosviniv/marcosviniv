@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png"  />
 </div>
 
@@ -11,7 +11,9 @@
 <h2 align="left">About me</h2>
 
 <p align="left">👀 I’m interested in developing new projects<br>🌱 I’m currently learning Android and the Kotlin Language<br>🎯 Goals: To master Mobile Development and graduate as a Software Engineer<br>📫 How to reach me: marcosv.code@gmail.com</p>
-
+<div align="right">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png"  />
+</div>
 <h2 align="left">I code with</h2>
 
 <div align="left">
