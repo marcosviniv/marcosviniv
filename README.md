@@ -13,7 +13,7 @@
 <p align="left">👀 I’m interested in developing new projects<br>🌱 I’m currently learning Android and the Kotlin Language<br>🎯 Goals: To master Mobile Development and graduate as a Software Engineer<br>📫 How to reach me: marcosv.code@gmail.com</p>
 
 ###
-<br>
+<br><br>
 <h2 align="left">I code with</h2>
 
 <div align="left">
