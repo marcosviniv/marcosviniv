@@ -1,13 +1,3 @@
-<div align="center">
-  <img height="240" src="https://i.pinimg.com/originals/f4/de/0b/f4de0ba280af342f24c9f6939b229d03.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=marcosviniv.marcosviniv&" />
-</div>
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">👋 Hi, I’m @marcosviniv and I'm a Software Engineering student, from Brazil <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /></p>
@@ -24,7 +14,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
   <img width="12" />
 </div>
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=marcosviniv.marcosviniv&" />
+</div>
 <h2 align="left">Stats</h2>
 
 <div align="center">
