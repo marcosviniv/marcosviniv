@@ -1,17 +1,3 @@
-<div align="center">
-  <img height="240" src="https://i.pinimg.com/originals/ec/23/b3/ec23b3f6e9d8e5fe152565922ae28cec.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="35" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="35" alt="instagram logo"  />
-</div>
-
-###
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -28,15 +14,21 @@
 
 ###
 <div align="center">
-<a href="https://www.linkedin.com/in/marcosviniv/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-</a>
-<a href="https://www.instagram.com/mviniciusvieira_/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
-</a>
-<a href="https://www.youtube.com/channel/UCmdtYvjBXh07hLJk25iV0TA" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
-</a>
+  <img height="240" src="https://i.pinimg.com/originals/f4/de/0b/f4de0ba280af342f24c9f6939b229d03.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/marcosviniv/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCmdtYvjBXh07hLJk25iV0TA" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/mviniciusvieira_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="35" alt="instagram logo"  />
+  </a>
 </div>
 
 ### 
