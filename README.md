@@ -14,9 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
   <img width="12" />
 </div>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=marcosviniv.marcosviniv&" />
-</div>
+
 <h2 align="left">Stats</h2>
 
 <div align="center">
@@ -25,3 +23,7 @@
 </div>
 
 <img align="right" height="300" src="https://i.pinimg.com/originals/f4/de/0b/f4de0ba280af342f24c9f6939b229d03.gif" />
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=marcosviniv.marcosviniv&" />
+</div>
