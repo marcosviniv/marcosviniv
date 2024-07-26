@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="none" src="https://i.pinimg.com/originals/ef/25/0f/ef250fa989e4256bfd2a56f667753349.gif"  />
+  <img height="none" src="https://clan.akamai.steamstatic.com/images//35662206/71a41d0140d3cbbbe56de29f5fe0b32e16a7c5cc.gif"  />
 </div>
 
 ###
