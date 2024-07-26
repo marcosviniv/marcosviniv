@@ -10,7 +10,7 @@
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">👋 Hi, I’m @marcosviniv and I'm a Software Engineering student, from Brazil.</p>
+<p align="left">👋 Hi, I’m @marcosviniv and I'm a Software Engineering student, from Brazil<img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" />.</p>
 
 <h2 align="left">About me</h2>
 
