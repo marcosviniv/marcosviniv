@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Marcos+Vinícius+Vieira!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Righteous&size=26&color=157290EB&lines=Hi+There!%F0%9F%91%8B;I'm+Marcos+Vin%C3%ADcius+Vieira!" />
 </h1>
 <p align="left">👋 Hi, I’m @marcosviniv and I'm a Software Developer student, from Brazil <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /></p>
 
