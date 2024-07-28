@@ -1,16 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Marcos+Vieira!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Marcos+Vinícius+Vieira!;" />
 </h1>
-
-<h3 align="center">A passionate software developer from Brazil</h3>
-
 <br/>
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">👋 Hi, I’m @marcosviniv and I'm a Software Engineering student, from Brazil <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /></p>
+<p align="left">👋 Hi, I’m @marcosviniv and I'm a Software Develiper student, from Brazil <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /></p>
 
 <h2 align="left">About me</h2>
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png"  />
