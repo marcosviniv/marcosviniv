@@ -9,7 +9,10 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="right">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<div align="right">
+    <img src="https://skillicons.dev/icons?i=kotlin,android,vscode,github" />
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo" />
