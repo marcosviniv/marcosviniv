@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="left">⚒️ Languages-Frameworks-Tools⚒️</h2>
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,vscode,github" />
 </div>
