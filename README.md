@@ -13,7 +13,7 @@
 <div align="left">
     <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,vscode,github" />
 </div>
-s
+
 <h2 align="left">Stats</h2>
 
 <div align="center">
