@@ -11,7 +11,7 @@
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,swift,apple,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,swift,apple,github&theme=light)](#)
 
 <h2 align="left">Stats</h2>
 
