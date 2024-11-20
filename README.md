@@ -14,7 +14,7 @@
     <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,apple,github" />
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,swift,apple,github&theme=light)](https://skillicons.dev)
 
 <h2 align="left">Stats</h2>
 
