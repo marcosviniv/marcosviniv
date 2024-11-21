@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="left">⚒️ Languages-Frameworks-Toolsd ⚒️</h2>
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,swift,apple,github&theme=light)](#)
 
