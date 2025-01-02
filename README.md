@@ -10,7 +10,7 @@
 🌱 I’m currently learning Android and iOS development with Kotlin and Swift.<br>
 🎯 Goal: To master Mobile Development and graduate as a Software Engineer.<br>
 ✨ Creating bugs since 2024.<br>
-📫 How to reach me: marcosv.code@gmail.com 2025</p><br><br>
+📫 How to reach me: marcosv.code@gmail.com</p><br><br>
   
 ###
 
