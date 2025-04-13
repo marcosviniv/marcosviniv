@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&pause=1000&color=208DA9&center=true&vCenter=true&width=435&lines=Hi+There!+👋;+I'm+Marcos!;" />
 </h1>
-<p align="left">👋 Hi, I’m @marcosviniv and I'm a Software Engineering student, from Brazil <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /></p>
+<p align="left">👋 Hi, I’m @marcosviniv and Il'm a Software Engineering student, from Brazil <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /></p>
 
 <h2 align="left">About me</h2>
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png"  />
