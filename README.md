@@ -7,7 +7,7 @@
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png"  />
 
 <p align="left">👀 I’m interested in developing new projects.<br>
-🌱 I’m currently learning Android and iOS development with Kotlin and Swift.<br>
+🌱 I’m currently learning iOS development with Swift.<br>
 🎯 Goal: To master Mobile Development and graduate as a Software Engineer.<br>
 ✨ Creating bugs since 2024.<br>
 📫 How to reach me: marcosv.code@gmail.com</p><br><br>
@@ -16,7 +16,7 @@
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,swift,apple,github&theme=light)](#)
+[![My Skills](https://skillicons.dev/icons?i=swift,apple,github&theme=light)](#)
 
 <h2 align="left">Stats</h2>
 
