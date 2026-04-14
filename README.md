@@ -17,12 +17,3 @@
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=swift,apple,github&theme=light)](#)
-
-<h2 align="left">Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcosviniv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosviniv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-<img align="right" height="300" src="https://i.pinimg.com/originals/f4/de/0b/f4de0ba280af342f24c9f6939b229d03.gif" />
