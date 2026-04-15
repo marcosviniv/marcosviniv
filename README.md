@@ -16,4 +16,5 @@
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=swift,apple,github&theme=light)](#)
+[![My Skills](https://skillicons.dev/icons?i=swift&theme=light)](#)
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ios.png" alt="iOS" title="iOS"/>
